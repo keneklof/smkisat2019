@@ -1,0 +1,39 @@
+<Task type="AAT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
+  <Point type="Start">
+    <Waypoint name="008 Vojakkala" id="0" comment="" altitude="117.0">
+      <Location longitude="24.1627833" latitude="60.7813833"/>
+    </Waypoint>
+    <ObservationZone type="Line" length="20000.0"/>
+  </Point>
+  <Point type="Area">
+    <Waypoint name="085 Kanteenmaa" id="0" comment="" altitude="94.0">
+      <Location longitude="22.93695" latitude="61.0622167"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="10000.0"/>
+  </Point>
+  <Point type="Area">
+    <Waypoint name="035 Salo" id="0" comment="" altitude="84.0">
+      <Location longitude="23.1313833" latitude="60.3936167"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="10000.0"/>
+  </Point>
+  <Point type="Area">
+    <Waypoint name="026 Alvettula" id="0" comment="" altitude="86.0">
+      <Location longitude="24.4886167" latitude="61.20305"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="10000.0"/>
+  </Point>
+  <Point type="Area">
+    <Waypoint name="009 Lietsa" id="0" comment="" altitude="113.0">
+      <Location longitude="24.0166667" latitude="60.82805"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="3000.0"/>
+  </Point>
+  <Point type="Finish">
+    <Waypoint name="999 Rayskala_F12" id="0" comment="" altitude="124.0">
+      <Location longitude="24.0977833" latitude="60.7508333"/>
+    </Waypoint>
+    <ObservationZone type="Line" length="1000.0"/>
+  </Point>
+</Task>
+
