@@ -1,1 +1,40 @@
+<Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
+  <Point type="Start">
+    <Waypoint name="001 Rayskala" id="0" comment="" altitude="124.0">
+      <Location longitude="24.11805" latitude="60.7425"/>
+    </Waypoint>
+    <ObservationZone type="Line" length="20000.0"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="022 Humppila" id="0" comment="" altitude="102.0">
+      <Location longitude="23.33945" latitude="60.9536167"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="500.0"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="033 Kisakeskus" id="0" comment="" altitude="50.0">
+      <Location longitude="23.3791667" latitude="60.1191667"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="500.0"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="016 Kiikala" id="0" comment="" altitude="116.0">
+      <Location longitude="23.6513833" latitude="60.4622167"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="500.0"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="003 Topeno" id="0" comment="" altitude="117.0">
+      <Location longitude="24.28195" latitude="60.7616667"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="500.0"/>
+  </Point>
+  <Point type="Finish">
+    <Waypoint name="001 Rayskala" id="0" comment="" altitude="124.0">
+      <Location longitude="24.11805" latitude="60.7425"/>
+    </Waypoint>
+    <ObservationZone type="Line" length="1000.0"/>
+  </Point>
+</Task>
+
 
