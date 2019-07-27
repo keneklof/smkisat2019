@@ -3,13 +3,7 @@
     <Waypoint name="001 Rayskala" id="0" comment="" altitude="124.0">
       <Location longitude="24.11805" latitude="60.7425"/>
     </Waypoint>
-    <ObservationZone type="Line" length="20000.0"/>
-  </Point>
-  <Point type="Turn">
-    <Waypoint name="022 Humppila" id="0" comment="" altitude="102.0">
-      <Location longitude="23.33945" latitude="60.9536167"/>
-    </Waypoint>
-    <ObservationZone type="Cylinder" radius="500.0"/>
+    <ObservationZone type="Line" length="10000.0"/>
   </Point>
   <Point type="Turn">
     <Waypoint name="033 Kisakeskus" id="0" comment="" altitude="50.0">
@@ -18,23 +12,22 @@
     <ObservationZone type="Cylinder" radius="500.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="016 Kiikala" id="0" comment="" altitude="116.0">
-      <Location longitude="23.6513833" latitude="60.4622167"/>
+    <Waypoint name="080 Riisikkala" id="0" comment="" altitude="103.0">
+      <Location longitude="23.7663833" latitude="61.0413833"/>
     </Waypoint>
     <ObservationZone type="Cylinder" radius="500.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="003 Topeno" id="0" comment="" altitude="117.0">
-      <Location longitude="24.28195" latitude="60.7616667"/>
+    <Waypoint name="086 Laajoki" id="0" comment="" altitude="81.0">
+      <Location longitude="22.09305" latitude="60.8513833"/>
     </Waypoint>
     <ObservationZone type="Cylinder" radius="500.0"/>
   </Point>
   <Point type="Finish">
-    <Waypoint name="001 Rayskala" id="0" comment="" altitude="124.0">
-      <Location longitude="24.11805" latitude="60.7425"/>
+    <Waypoint name="998 Rayskala_F08" id="0" comment="" altitude="124.0">
+      <Location longitude="24.09195" latitude="60.7413833"/>
     </Waypoint>
     <ObservationZone type="Line" length="1000.0"/>
   </Point>
 </Task>
-
 
