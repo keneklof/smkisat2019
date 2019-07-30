@@ -15,7 +15,7 @@
     <Waypoint name="025 Koski" id="0" comment="" altitude="98.0">
       <Location longitude="23.1" latitude="60.67695"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="20000.0"/>
+    <ObservationZone type="Cylinder" radius="30000.0"/>
   </Point>
   <Point type="Area">
     <Waypoint name="006 Karkkila" id="0" comment="" altitude="105.0">
@@ -30,5 +30,6 @@
     <ObservationZone type="Cylinder" radius="3000.0"/>
   </Point>
 </Task>
+
 
 
