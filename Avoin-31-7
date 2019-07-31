@@ -1,1 +1,40 @@
+<Task type="AAT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
+  <Point type="Start">
+    <Waypoint name="010 Keritty" id="0" comment="" altitude="123.0">
+      <Location longitude="24.1166667" latitude="60.6933333"/>
+    </Waypoint>
+    <ObservationZone type="Line" length="10000.0"/>
+  </Point>
+  <Point type="Area">
+    <Waypoint name="130 Iittala" id="0" comment="" altitude="91.0">
+      <Location longitude="24.13695" latitude="61.0822167"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="20000.0"/>
+  </Point>
+  <Point type="Area">
+    <Waypoint name="024 Mommila" id="0" comment="" altitude="88.0">
+      <Location longitude="25.0286167" latitude="60.8441667"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="20000.0"/>
+  </Point>
+  <Point type="Area">
+    <Waypoint name="044 Padasjoki" id="0" comment="" altitude="127.0">
+      <Location longitude="25.2477833" latitude="61.3436167"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="25000.0"/>
+  </Point>
+  <Point type="Area">
+    <Waypoint name="006 Karkkila" id="0" comment="" altitude="105.0">
+      <Location longitude="24.2388833" latitude="60.53305"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="20000.0"/>
+  </Point>
+  <Point type="Finish">
+    <Waypoint name="001 Rayskala" id="0" comment="" altitude="124.0">
+      <Location longitude="24.11805" latitude="60.7425"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="3000.0"/>
+  </Point>
+</Task>
+
 
