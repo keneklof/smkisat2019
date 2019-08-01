@@ -1,1 +1,47 @@
+<Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
+  <Point type="Start">
+    <Waypoint name="008 Vojakkala" id="0" comment="" altitude="117.0">
+      <Location longitude="24.1627833" latitude="60.7813833"/>
+    </Waypoint>
+    <ObservationZone type="Line" length="20000.0"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="018 Tervakoski" id="0" comment="" altitude="118.0">
+      <Location longitude="24.6672167" latitude="60.8236167"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="500.0"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="080 Riisikkala" id="0" comment="" altitude="103.0">
+      <Location longitude="23.7663833" latitude="61.0413833"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="500.0"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="137 Ajoniemi" id="0" comment="" altitude="81.0">
+      <Location longitude="23.4452833" latitude="60.4177833"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="500.0"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="045 Lauttakyla" id="0" comment="" altitude="81.0">
+      <Location longitude="22.67555" latitude="61.16945"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="500.0"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="010 Keritty" id="0" comment="" altitude="123.0">
+      <Location longitude="24.1166667" latitude="60.6933333"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="500.0"/>
+  </Point>
+  <Point type="Finish">
+    <Waypoint name="001 Rayskala" id="0" comment="" altitude="124.0">
+      <Location longitude="24.11805" latitude="60.7425"/>
+    </Waypoint>
+    <ObservationZone type="Line" length="1000.0"/>
+  </Point>
+</Task>
+
+
 
