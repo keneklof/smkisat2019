@@ -6,40 +6,34 @@
     <ObservationZone type="Line" length="20000.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="019 Hameenlinna" id="0" comment="" altitude="116.0">
-      <Location longitude="24.4733333" latitude="60.9711167"/>
+    <Waypoint name="018 Tervakoski" id="0" comment="" altitude="118.0">
+      <Location longitude="24.6672167" latitude="60.8236167"/>
     </Waypoint>
-    <ObservationZone type="Keyhole"/>
+    <ObservationZone type="Cylinder" radius="500.0"/>
   </Point>
   <Point type="Turn">
     <Waypoint name="080 Riisikkala" id="0" comment="" altitude="103.0">
       <Location longitude="23.7663833" latitude="61.0413833"/>
     </Waypoint>
-    <ObservationZone type="Keyhole"/>
+    <ObservationZone type="Cylinder" radius="500.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="034 Toija" id="0" comment="" altitude="84.0">
-      <Location longitude="23.4177833" latitude="60.2677833"/>
+    <Waypoint name="137 Ajoniemi" id="0" comment="" altitude="81.0">
+      <Location longitude="23.4452833" latitude="60.4177833"/>
     </Waypoint>
-    <ObservationZone type="Keyhole"/>
+    <ObservationZone type="Cylinder" radius="500.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="135 Vanttila" id="0" comment="" altitude="78.0">
-      <Location longitude="22.95055" latitude="61.1425"/>
+    <Waypoint name="045 Lauttakyla" id="0" comment="" altitude="81.0">
+      <Location longitude="22.67555" latitude="61.16945"/>
     </Waypoint>
-    <ObservationZone type="Keyhole"/>
-  </Point>
-  <Point type="Turn">
-    <Waypoint name="158 Ortenoja" id="0" comment="" altitude="70.0">
-      <Location longitude="22.6375" latitude="60.8125"/>
-    </Waypoint>
-    <ObservationZone type="Keyhole"/>
+    <ObservationZone type="Cylinder" radius="500.0"/>
   </Point>
   <Point type="Turn">
     <Waypoint name="010 Keritty" id="0" comment="" altitude="123.0">
       <Location longitude="24.1166667" latitude="60.6933333"/>
     </Waypoint>
-    <ObservationZone type="Keyhole"/>
+    <ObservationZone type="Cylinder" radius="500.0"/>
   </Point>
   <Point type="Finish">
     <Waypoint name="001 Rayskala" id="0" comment="" altitude="124.0">
