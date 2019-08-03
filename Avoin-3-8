@@ -1,1 +1,40 @@
+<Task type="AAT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
+  <Point type="Start">
+    <Waypoint name="009 Lietsa" id="0" comment="" altitude="113.0">
+      <Location longitude="24.0166667" latitude="60.82805"/>
+    </Waypoint>
+    <ObservationZone type="Line" length="10000.0"/>
+  </Point>
+  <Point type="Area">
+    <Waypoint name="034 Toija" id="0" comment="" altitude="84.0">
+      <Location longitude="23.4177833" latitude="60.2677833"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="20000.0"/>
+  </Point>
+  <Point type="Area">
+    <Waypoint name="135 Vanttila" id="0" comment="" altitude="78.0">
+      <Location longitude="22.95055" latitude="61.1425"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="20000.0"/>
+  </Point>
+  <Point type="Area">
+    <Waypoint name="142 Lahnajarvi" id="0" comment="" altitude="83.0">
+      <Location longitude="23.7077833" latitude="60.3713833"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="20000.0"/>
+  </Point>
+  <Point type="Area">
+    <Waypoint name="005 Lautaporras" id="0" comment="" altitude="107.0">
+      <Location longitude="23.8636167" latitude="60.9091667"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="15000.0"/>
+  </Point>
+  <Point type="Finish">
+    <Waypoint name="001 Rayskala" id="0" comment="" altitude="124.0">
+      <Location longitude="24.11805" latitude="60.7425"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="3000.0"/>
+  </Point>
+</Task>
+
 
